@@ -1,0 +1,19 @@
+{
+"merchants": [
+  {"id": 1, "name": "Kelly's", "email": "kellys@kellys.com", "email2": "kellys2@kellys.com", "phone": "123-4567"},
+  {"id": 2, "name": "AID", "email": "aid@aid.com", "email2": "aid2@aid.com", "phone": "123-4567"},
+  {"id": 3, "name": "Bristol's", "email": "bristols@bristols.com","email2": "bristols2@bristols.com", "phone": "123-4567"},
+  {"id": 4, "name": "Cost Right", "email": "costright@costright.com", "email2": "costright2@costright.com", "phone": "123-4567"},
+],
+"vouchers": [
+  {"id": 1, "businessName": "Kelly's", "voucherDescription: "2 peice Queen Bedroom Set", "originalPrice": 200.00, 
+  "discountPrice": 100.00, "numOfVouchers": 20, "expirationDate": "December 9th 2019", "category": "HomeAndGarden"},
+  {"id": 2, "businessName": "AID", "voucherDescription: "2 peice Queen Bedroom Set", "originalPrice": 400.00, 
+  "discountPrice": 200.00, "numOfVouchers": 10, "expirationDate": "June 9th 2019", "category": "FoodAndRestaurant"},
+  {"id": 3, "businessName": "Bristol's", "voucherDescription: "2 peice Queen Bedroom Set", "originalPrice": 50.00, 
+  "discountPrice": 20.00, "numOfVouchers": 30, "expirationDate": "July 9th 2019", "category": "HotelAndTravel"},
+  {"id": 4, "businessName": "Cost Right", "voucherDescription: "2 peice Queen Bedroom Set", "originalPrice": 800.00, 
+  "discountPrice": 500.00, "numOfVouchers": 5,"expirationDate": "August 9th 2019", "category": "FashionRetail"}
+]
+
+}
