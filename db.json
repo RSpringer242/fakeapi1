@@ -29,11 +29,12 @@
     "phone": "123-4567"
   }
 ],
+  
 "vouchers": [
   {
     "id": 1, 
     "businessName": "Kelly's", 
-    "voucherDescription: "2 peice Queen Bedroom Set", 
+    "voucherDescription": "2 peice Queen Bedroom Set", 
     "originalPrice": 200.00, 
     "discountPrice": 100.00, 
     "numOfVouchers": 20, 
